@@ -1,0 +1,1 @@
+This is GMoney's first git project!
